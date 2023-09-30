@@ -1,0 +1,5 @@
+Hostname= 
+Total_memory= 
+BIOS_VERSION= 
+VDA_SIZE= 
+VDB_SIZE= 
